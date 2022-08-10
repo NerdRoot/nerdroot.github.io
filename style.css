@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,700&family=Roboto:wght@700&display=swap');
+
+#mainNav h1 {
+    background-color: #ffedd5;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0, 0, 0, 0.7)
+}
+
+
